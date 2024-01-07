@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shaiq Paracha</h1>
-<h3 align="center">A passionate Flutter developer, MERN Stack Developer, Data Analyst, and Web Scraper.</h3>
+<h3 align="center">A passionate Flutter developer, Data Analyst, and Web Scraper.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrus-programmer&label=Profile%20views&color=0e75b6&style=flat" alt="cyrus-programmer" /> </p>
 
@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **Flutter, MERN, Python**
+- 👯 I’m looking to collaborate on **Flutter, Python**
 
 - 📝 I regularly write articles on [https://medium.com/@cyrusprogrammer](https://medium.com/@cyrusprogrammer)
 
-- 💬 Ask me about **Flutter, NodeJS, Python, Web2Py**
+- 💬 Ask me about **Flutter, Python, Web2Py**
 
 - 📫 How to reach me **shaiqparacha123@gmail.com**
 
