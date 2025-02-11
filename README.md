@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shaiq Paracha</h1>
-<h3 align="center">A passionate Machine Learning Engineer and AI Researcher exploring neuroimaging and brain-computer interfaces.</h3>
+<h3 align="center">A passionate Machine Learning Engineer and AI Researcher exploring medical image.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=cyrus-programmer&label=Profile%20views&color=0e75b6&style=flat" alt="cyrus-programmer" />
@@ -17,7 +17,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on advanced deep learning models for medical image analysis.
+- 🔭 I’m currently working on advanced deep-learning models for medical image analysis.
 - 🌱 I’m exploring cutting-edge techniques in representation learning and generative models.
 - 👯 I’m looking to collaborate on projects in AI, deep learning, and GenAI.
 - 📝 I regularly write research articles and technical blogs on [Medium](https://medium.com/@cyrusprogrammer).
