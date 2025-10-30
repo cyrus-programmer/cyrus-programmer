@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shaiq Paracha</h1>
-<h3 align="center">A passionate Machine Learning Engineer and AI Researcher exploring medical image.</h3>
+<h3 align="center">A passionate Flutter Developer crafting beautiful and performant cross-platform applications.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=cyrus-programmer&label=Profile%20views&color=0e75b6&style=flat" alt="cyrus-programmer" />
@@ -17,17 +17,14 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on advanced deep-learning models for medical image analysis.
-- 🌱 I’m exploring cutting-edge techniques in representation learning and generative models.
-- 👯 I’m looking to collaborate on projects in AI, deep learning, and GenAI.
-- 📝 I regularly write research articles and technical blogs on [Medium](https://medium.com/@cyrusprogrammer).
-- 💬 Ask me about deep learning, medical image analysis, and AI.
+- 🔭 I’m currently working on a new cross-platform app using Flutter & Firebase.
+- 🌱 I’m exploring advanced state management (Riverpod/Bloc) and Flutter performance optimization.
+- 👯 I’m looking to collaborate on open-source Flutter projects.
+- 📝 I write articles and tutorials about Flutter and Dart on [Medium](https://medium.com/@cyrusprogrammer).
+- 💬 Ask me about Flutter, Dart, Firebase, and mobile app architecture.
 - 📫 How to reach me: shaiqparacha123@gmail.com
 
 ### Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/shaiq_paracha" target="blank">
@@ -55,28 +52,27 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
   </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
   </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <!-- Add more icons as needed -->
 </p>
 
 <p>
