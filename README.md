@@ -11,12 +11,6 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/shaiq_paracha" target="blank">
-    <img src="https://img.shields.io/twitter/follow/shaiq_paracha?logo=twitter&style=for-the-badge" alt="shaiq_paracha" />
-  </a>
-</p>
-
 - 🔭 I’m currently working on a new cross-platform app using Flutter & Firebase.
 - 🌱 I’m exploring advanced state management (Riverpod/Bloc) and Flutter performance optimization.
 - 👯 I’m looking to collaborate on open-source Flutter projects.
@@ -24,7 +18,6 @@
 - 💬 Ask me about Flutter, Dart, Firebase, and mobile app architecture.
 - 📫 How to reach me: shaiqparacha123@gmail.com
 
-### Blog Posts
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/shaiq_paracha" target="blank">
@@ -75,12 +68,16 @@
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyrus-programmer&show_icons=true&locale=en&layout=compact" alt="cyrus-programmer" />
+<h3 align="left">GitHub Stats:</h3>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cyrus-programmer&show_icons=true&locale=en&layout=compact" alt="cyrus-programmer" />
 </p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyrus-programmer&show_icons=true&locale=en" alt="cyrus-programmer" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=cyrus-programmer&show_icons=true&locale=en" alt="cyrus-programmer" />
 </p>
 
-
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyrus-programmer" alt="cyrus-programmer" />
+</p>
