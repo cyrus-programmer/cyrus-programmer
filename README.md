@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=cyrus-programmer" alt="cyrus-programmer" />
+    <img src="https://trophies.sehmaluva.me/?username=cyrus-programmer" alt="cyrus-programmer" />
   </a>
 </div>
 
