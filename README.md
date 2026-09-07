@@ -8,8 +8,7 @@
 
 <br/>
 
-[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated%20%7C%20100%25%20JSS-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~shaiqparacha)
-[![App Store](https://img.shields.io/badge/App%20Store-10%2B%20Live%20Apps-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/ie/developer/shaiq-paracha/id1881460801)
+[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated%20%7C%20100%25%20JSS-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/shaiqparacha)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaiq-paracha)
 [![Medium](https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cyrusprogrammer)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaiqparacha123@gmail.com)
@@ -58,18 +57,16 @@ Live products I designed, built, and shipped myself.
 
 | App | What it does | Stack |
 | :--- | :--- | :--- |
-| **[RankRider Speed Tracker](https://apps.apple.com/pk/app/rankrider-speed-tracker/id6778769854)** | GPS speed and trip tracking with continuous background location capture, local SQLite trip store, and sync on reconnect | Flutter, SQLite, CoreLocation |
-| **[Purge: Storage Cleaner & Vault](https://apps.apple.com/app/id6761412834)** | Storage cleanup and encrypted media vault with tiered subscriptions | Flutter, RevenueCat, Photos framework |
 | **[Connections Word Puzzle](https://apps.apple.com/us/app/connections-word-puzzle-game/id6749076038)** | Animation heavy daily word puzzle game, built solo | Flutter, custom animation |
 | **FastFlow: 16:8 Fasting Tracker** | Intermittent fasting tracker with HealthKit sync and streak analytics | Flutter, Drift, HealthKit |
 | **RiseWealth** | Unified financial ledger: budgets, goals, net worth, multi account, multi currency, statement import, offline mode | React Native, Firebase |
 | **AI Translator** | iOS custom keyboard extension with live translation via App Groups | Flutter, Swift, ML Kit |
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://apps.apple.com/ie/developer/shaiq-paracha/id1881460801">
     <img src="https://img.shields.io/badge/See%20all%20apps%20on%20the%20App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="View all published iOS apps by Shaiq Paracha" />
   </a>
-</div>
+</div> -->
 
 ---
 
@@ -175,7 +172,7 @@ I take on **Flutter app development**, **iOS and Android builds**, **app rescues
 <div align="center">
 
 [![Email](https://img.shields.io/badge/shaiqparacha123@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaiqparacha123@gmail.com)
-[![Upwork](https://img.shields.io/badge/Hire%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~shaiqparacha)
+[![Upwork](https://img.shields.io/badge/Hire%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/shaiqparacha)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaiq-paracha)
 
 </div>
