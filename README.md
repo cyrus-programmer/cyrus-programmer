@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=0175C2&center=true&vCenter=true&width=650&lines=Flutter+%26+Dart+Developer+from+Karachi%2C+Pakistan;10%2B+iOS+Apps+Shipped+to+the+App+Store;Riverpod+%7C+Drift+%7C+Firebase+%7C+RevenueCat;I+build+AI-powered+mobile+products+end+to+end" alt="Flutter developer, 10+ iOS apps shipped, Riverpod Firebase RevenueCat" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=0175C2&center=true&vCenter=true&width=650&lines=Flutter+%26+Dart+Developer+from+Islamabad%2C+Pakistan;10%2B+iOS+Apps+Shipped+to+the+App+Store;Riverpod+%7C+Drift+%7C+Firebase+%7C+RevenueCat;I+build+AI-powered+mobile+products+end+to+end" alt="Flutter developer, 10+ iOS apps shipped, Riverpod Firebase RevenueCat" />
 </a>
 
 <br/>
